@@ -30,7 +30,7 @@ body {
 }
 
 .title {
-  background-image: url(/img/qwerty.jpg);
+  background-image: url(qwerty.jpg);
   background-size: 100%;
   background-repeat: no-repeat; /*добавила, чтоб не повторялась картинка*/
 }
