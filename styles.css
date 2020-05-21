@@ -197,16 +197,15 @@ table {
   }
 
   .title {
-    background-image: url(qwerty.jpg);
-    background-size: 100%;
-    background-repeat: no-repeat; /*добавила, чтоб не повторялась картинка*/
+    background: url(qwerty.jpg) no-repeat center fixed;
+    background-size: cover;
   }
 
   h1 {
     font-size: 30px;
-    margin-top: 35px;
-    margin-left: 35px;
-    margin-right: 35px;
+    margin-top: 25px;
+    margin-left: 25px;
+    margin-right: 25px;
   }
   h2 {
     font-size: 20px;
@@ -216,7 +215,7 @@ table {
   h3 {
     font-size: 16px;
     line-height: 1;
-    margin-bottom: 50px;
+    margin-bottom: 10px;
   }
   h4 {
     font-weight: 600;
